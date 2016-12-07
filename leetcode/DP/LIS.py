@@ -19,14 +19,6 @@ def lis(nums):
             res = d[i]
     print(d)
     return res
-    
-    
-            
-            
-            
-            
-    
-    return res
 
 if __name__ == "__main__":
     nums = [5, 3, 4, 8, 6, 7, 9]
